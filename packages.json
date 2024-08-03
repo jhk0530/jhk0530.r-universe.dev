@@ -1,10 +1,18 @@
 [
   {
+    "package": "gemini.R",
+    "url": "https://github.com/jhk0530/gemini.R"
+  },
+  {
     "package": "polaroid",
     "url": "https://github.com/jhk0530/polaroid"
   },
   {
     "package": "shinyCyJS",
     "url": "https://github.com/jhk0530/shinyCyJS"
+  },
+  {
+    "package": "shinyReadme",
+    "url": "https://github.com/jhk0530/shinyReadme"
   }
 ]
